@@ -5,5 +5,5 @@
 
 ### 课表如下：
 
-![Alt text](Pasted%20Graphic.jpg)
+![Alt text](src/Pasted%20Graphic.jpg)
 
