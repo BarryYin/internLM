@@ -1,4 +1,9 @@
 # internLM
-参加书生·浦语大模型实战营课堂笔记
-原课程链接：https://github.com/internLM/tutorial
+## 参加书生·浦语大模型实战营课堂笔记 
+
+### 原课程链接：https://github.com/internLM/tutorial
+
+### 课表如下：
+
+![Alt text](Pasted%20Graphic.jpg)
 
